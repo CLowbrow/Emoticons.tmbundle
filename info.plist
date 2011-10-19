@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Emoticons</string>
+	<key>ordering</key>
+	<array>
+		<string>3F4532C4-589F-4C90-B0EB-D4E7AF47F8FA</string>
+		<string>BDC6F696-193E-420D-B1AC-A803AD85AF0F</string>
+		<string>9D0E9DBF-BE78-4CB5-BBB6-319366436039</string>
+		<string>13BE918E-89EF-4FA3-BCE1-E8CEE6841C9F</string>
+		<string>0BE09375-C66F-4B9B-A06D-E351C7AF9D21</string>
+		<string>40BABB1B-0185-4AB0-A2EE-7191D5B7B545</string>
+		<string>978D69F0-6CEE-4B8D-A436-F7B78AB78A6B</string>
+		<string>55834BB5-0749-4E88-B3CB-BB1F84FFAEE7</string>
+		<string>2E87325B-07BC-41EC-B935-E2FDE3F36D00</string>
+		<string>379F34E1-8945-475C-8D20-CB3BB9DED5A0</string>
+		<string>793E24FD-9FD6-439C-B1AE-4DCE4FABCECB</string>
+		<string>16569F26-0980-4057-B078-4342D53F6C1E</string>
+		<string>BBF2BC5C-9D9B-4979-8A2F-E9775195EABA</string>
+		<string>1DE13790-C66D-4CDB-AE76-B09627232878</string>
+		<string>3DECF89A-1385-428D-B461-17F0F14D536D</string>
+		<string>941562E8-EAC9-407B-A452-03B203ECBFB8</string>
+	</array>
+	<key>uuid</key>
+	<string>C526D30E-D813-4756-B0D6-EA806E313999</string>
+</dict>
+</plist>

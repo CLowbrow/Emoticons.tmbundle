@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ʕノ•ᴥ•ʔノ ︵ ┻━┻</string>
+	<key>name</key>
+	<string>Bear Flip</string>
+	<key>tabTrigger</key>
+	<string>?bearflip</string>
+	<key>uuid</key>
+	<string>BBF2BC5C-9D9B-4979-8A2F-E9775195EABA</string>
+</dict>
+</plist>

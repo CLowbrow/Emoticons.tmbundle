@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>( °٢° )</string>
+	<key>name</key>
+	<string>Drooling</string>
+	<key>tabTrigger</key>
+	<string>?drooling</string>
+	<key>uuid</key>
+	<string>13BE918E-89EF-4FA3-BCE1-E8CEE6841C9F</string>
+</dict>
+</plist>
